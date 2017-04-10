@@ -1,0 +1,35 @@
+I:\Elmira\Winter Semester\DotNet\C#\MiniNotePad\MiniNotePad\bin\Debug\MiniNotePad.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\MiniNotePad\MiniNotePad\bin\Debug\MiniNotePad.exe
+I:\Elmira\Winter Semester\DotNet\C#\MiniNotePad\MiniNotePad\bin\Debug\MiniNotePad.pdb
+I:\Elmira\Winter Semester\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MainWindow.baml
+I:\Elmira\Winter Semester\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MainWindow.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\App.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad_MarkupCompile.cache
+I:\Elmira\Winter Semester\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad.g.resources
+I:\Elmira\Winter Semester\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad.Properties.Resources.resources
+I:\Elmira\Winter Semester\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad.csproj.GenerateResource.Cache
+I:\Elmira\Winter Semester\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad.exe
+I:\Elmira\Winter Semester\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad.pdb
+I:\Elmira\Winter Semester\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad.csprojResolveAssemblyReference.cache
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\bin\Debug\MiniNotePad.exe.config
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad.exe
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad.pdb
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\bin\Debug\MiniNotePad.exe
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\bin\Debug\MiniNotePad.pdb
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\bin\Debug\mscorlib.dll
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\bin\Debug\normidna.nlp
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\bin\Debug\normnfc.nlp
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\bin\Debug\normnfd.nlp
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\bin\Debug\normnfkc.nlp
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\bin\Debug\normnfkd.nlp
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad.csprojResolveAssemblyReference.cache
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MainWindow.baml
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MainWindow.g.cs
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\App.g.cs
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad_MarkupCompile.cache
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad.g.resources
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad.Properties.Resources.resources
+D:\Elmira-IPD\DotNet\C#\MiniNotePad\MiniNotePad\obj\Debug\MiniNotePad.csproj.GenerateResource.Cache
+D:\Elmira-IPD\DotNet\C#\MiniNotePadEli\MiniNotePad\bin\Debug\MiniNotePad.exe.config
+D:\Elmira-IPD\DotNet\C#\MiniNotePadEli\MiniNotePad\obj\Debug\MiniNotePad.exe
+D:\Elmira-IPD\DotNet\C#\MiniNotePadEli\MiniNotePad\obj\Debug\MiniNotePad.pdb

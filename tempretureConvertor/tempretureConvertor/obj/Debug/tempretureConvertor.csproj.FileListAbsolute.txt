@@ -1,0 +1,13 @@
+I:\Elmira\Winter Semester\DotNet\C#\tempretureConvertor\tempretureConvertor\bin\Debug\tempretureConvertor.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\tempretureConvertor\tempretureConvertor\bin\Debug\tempretureConvertor.exe
+I:\Elmira\Winter Semester\DotNet\C#\tempretureConvertor\tempretureConvertor\bin\Debug\tempretureConvertor.pdb
+I:\Elmira\Winter Semester\DotNet\C#\tempretureConvertor\tempretureConvertor\obj\Debug\tempretureConvertor.csprojResolveAssemblyReference.cache
+I:\Elmira\Winter Semester\DotNet\C#\tempretureConvertor\tempretureConvertor\obj\Debug\MainWindow.baml
+I:\Elmira\Winter Semester\DotNet\C#\tempretureConvertor\tempretureConvertor\obj\Debug\MainWindow.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\tempretureConvertor\tempretureConvertor\obj\Debug\App.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\tempretureConvertor\tempretureConvertor\obj\Debug\tempretureConvertor_MarkupCompile.cache
+I:\Elmira\Winter Semester\DotNet\C#\tempretureConvertor\tempretureConvertor\obj\Debug\tempretureConvertor.g.resources
+I:\Elmira\Winter Semester\DotNet\C#\tempretureConvertor\tempretureConvertor\obj\Debug\tempretureConvertor.Properties.Resources.resources
+I:\Elmira\Winter Semester\DotNet\C#\tempretureConvertor\tempretureConvertor\obj\Debug\tempretureConvertor.csproj.GenerateResource.Cache
+I:\Elmira\Winter Semester\DotNet\C#\tempretureConvertor\tempretureConvertor\obj\Debug\tempretureConvertor.exe
+I:\Elmira\Winter Semester\DotNet\C#\tempretureConvertor\tempretureConvertor\obj\Debug\tempretureConvertor.pdb

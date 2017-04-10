@@ -1,0 +1,33 @@
+﻿<Window x:Class="PeopleBindingEli.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+  
+    <Grid>
+        <ListView Margin="10,10,273,10" Name="LvPersons" MouseLeftButtonUp="LvPersons_MouseLeftButtonUp"  >
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Delete" Click="MenuItemDelete_Click" />
+                </ContextMenu>
+            </ListView.ContextMenu>
+            <ListView.View>                             
+                    <GridView>
+                    <GridViewColumn Header="ID" Width="30"  DisplayMemberBinding="{Binding ID1}" />
+                    <GridViewColumn Header="Name" Width="150" DisplayMemberBinding="{Binding Name1}" />
+                    <GridViewColumn Header="Age" Width="50" DisplayMemberBinding="{Binding Age1}" />
+                </GridView>
+                   
+            </ListView.View>
+        </ListView>
+        
+        <Label  Content="ID:" HorizontalAlignment="Left" Margin="305,19,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblIDValue" Content="......" HorizontalAlignment="Left" Margin="385,19,0,0" VerticalAlignment="Top"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="305,71,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="tbName" HorizontalAlignment="Left" Height="23" Margin="385,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Age" HorizontalAlignment="Left" Margin="305,125,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="tbAge" HorizontalAlignment="Left" Height="23" Margin="385,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Click="btnUpdate_Click" Name="btnUpdate" Content="Update" HorizontalAlignment="Left" Margin="290,222,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Click="btnAdd_Click" Name="btnAdd" Content="Add" HorizontalAlignment="Left" Margin="406,222,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

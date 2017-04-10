@@ -1,0 +1,13 @@
+I:\Elmira\Winter Semester\DotNet\C#\ListBoxTutorialEli\ListBoxTutorialEli\bin\Debug\ListBoxTutorialEli.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\ListBoxTutorialEli\ListBoxTutorialEli\bin\Debug\ListBoxTutorialEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\ListBoxTutorialEli\ListBoxTutorialEli\bin\Debug\ListBoxTutorialEli.pdb
+I:\Elmira\Winter Semester\DotNet\C#\ListBoxTutorialEli\ListBoxTutorialEli\obj\Debug\ListBoxTutorialEli.csprojResolveAssemblyReference.cache
+I:\Elmira\Winter Semester\DotNet\C#\ListBoxTutorialEli\ListBoxTutorialEli\obj\Debug\MainWindow.baml
+I:\Elmira\Winter Semester\DotNet\C#\ListBoxTutorialEli\ListBoxTutorialEli\obj\Debug\MainWindow.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\ListBoxTutorialEli\ListBoxTutorialEli\obj\Debug\App.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\ListBoxTutorialEli\ListBoxTutorialEli\obj\Debug\ListBoxTutorialEli_MarkupCompile.cache
+I:\Elmira\Winter Semester\DotNet\C#\ListBoxTutorialEli\ListBoxTutorialEli\obj\Debug\ListBoxTutorialEli.g.resources
+I:\Elmira\Winter Semester\DotNet\C#\ListBoxTutorialEli\ListBoxTutorialEli\obj\Debug\ListBoxTutorialEli.Properties.Resources.resources
+I:\Elmira\Winter Semester\DotNet\C#\ListBoxTutorialEli\ListBoxTutorialEli\obj\Debug\ListBoxTutorialEli.csproj.GenerateResource.Cache
+I:\Elmira\Winter Semester\DotNet\C#\ListBoxTutorialEli\ListBoxTutorialEli\obj\Debug\ListBoxTutorialEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\ListBoxTutorialEli\ListBoxTutorialEli\obj\Debug\ListBoxTutorialEli.pdb

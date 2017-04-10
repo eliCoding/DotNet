@@ -1,0 +1,12 @@
+﻿<Window x:Class="DataBindingTutorialEli.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ListBox Name="LeftListBox" HorizontalAlignment="Left" Height="264" Margin="24,23,0,0" VerticalAlignment="Top" Width="177"/>
+        <ListBox  Name="RightListBox" HorizontalAlignment="Left" Height="264" Margin="333,23,0,0" VerticalAlignment="Top" Width="146"/>
+        <Button Click="AddBtn_Click" Content="Add &gt;&gt;" HorizontalAlignment="Left" Margin="232,83,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Click="RemoveBtn_Click" Content="&lt;&lt; Remove" HorizontalAlignment="Left" Margin="232,175,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

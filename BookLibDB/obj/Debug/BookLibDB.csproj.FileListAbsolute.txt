@@ -1,0 +1,26 @@
+I:\Elmira\Winter Semester\DotNet\C#\BookLibDB\bin\Debug\BookLibDB.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\BookLibDB\obj\Debug\BookLibDB.csprojResolveAssemblyReference.cache
+I:\Elmira\Winter Semester\DotNet\C#\BookLibDB\obj\Debug\MainWindow.baml
+I:\Elmira\Winter Semester\DotNet\C#\BookLibDB\obj\Debug\MainWindow.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\BookLibDB\obj\Debug\App.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\BookLibDB\obj\Debug\BookLibDB_MarkupCompile.cache
+I:\Elmira\Winter Semester\DotNet\C#\BookLibDB\obj\Debug\BookLibDB.g.resources
+I:\Elmira\Winter Semester\DotNet\C#\BookLibDB\obj\Debug\BookLibDB.Properties.Resources.resources
+I:\Elmira\Winter Semester\DotNet\C#\BookLibDB\obj\Debug\BookLibDB.csproj.GenerateResource.Cache
+I:\Elmira\Winter Semester\DotNet\C#\BookLibDB\bin\Debug\BookLibDB.exe
+I:\Elmira\Winter Semester\DotNet\C#\BookLibDB\bin\Debug\BookLibDB.pdb
+I:\Elmira\Winter Semester\DotNet\C#\BookLibDB\obj\Debug\BookLibDB.exe
+I:\Elmira\Winter Semester\DotNet\C#\BookLibDB\obj\Debug\BookLibDB.pdb
+J:\DotNet\C#\BookLibDB\bin\Debug\BookLibDB.exe.config
+J:\DotNet\C#\BookLibDB\obj\Debug\BookLibDB.exe
+J:\DotNet\C#\BookLibDB\obj\Debug\BookLibDB.pdb
+J:\DotNet\C#\BookLibDB\bin\Debug\BookLibDB.exe
+J:\DotNet\C#\BookLibDB\bin\Debug\BookLibDB.pdb
+J:\DotNet\C#\BookLibDB\obj\Debug\BookLibDB.csprojResolveAssemblyReference.cache
+J:\DotNet\C#\BookLibDB\obj\Debug\MainWindow.baml
+J:\DotNet\C#\BookLibDB\obj\Debug\MainWindow.g.cs
+J:\DotNet\C#\BookLibDB\obj\Debug\App.g.cs
+J:\DotNet\C#\BookLibDB\obj\Debug\BookLibDB_MarkupCompile.cache
+J:\DotNet\C#\BookLibDB\obj\Debug\BookLibDB.g.resources
+J:\DotNet\C#\BookLibDB\obj\Debug\BookLibDB.Properties.Resources.resources
+J:\DotNet\C#\BookLibDB\obj\Debug\BookLibDB.csproj.GenerateResource.Cache

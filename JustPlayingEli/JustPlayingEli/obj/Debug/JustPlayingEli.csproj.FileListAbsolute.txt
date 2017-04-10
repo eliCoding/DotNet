@@ -1,0 +1,6 @@
+I:\Elmira\Winter Semester\DotNet\C#\JustPlayingEli\JustPlayingEli\bin\Debug\JustPlayingEli.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\JustPlayingEli\JustPlayingEli\bin\Debug\JustPlayingEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\JustPlayingEli\JustPlayingEli\bin\Debug\JustPlayingEli.pdb
+I:\Elmira\Winter Semester\DotNet\C#\JustPlayingEli\JustPlayingEli\obj\Debug\JustPlayingEli.csprojResolveAssemblyReference.cache
+I:\Elmira\Winter Semester\DotNet\C#\JustPlayingEli\JustPlayingEli\obj\Debug\JustPlayingEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\JustPlayingEli\JustPlayingEli\obj\Debug\JustPlayingEli.pdb

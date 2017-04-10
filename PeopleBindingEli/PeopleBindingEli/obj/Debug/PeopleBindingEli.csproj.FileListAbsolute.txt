@@ -1,0 +1,26 @@
+I:\Elmira\Winter Semester\DotNet\C#\PeopleBindingEli\PeopleBindingEli\bin\Debug\PeopleBindingEli.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\PeopleBindingEli\PeopleBindingEli\bin\Debug\PeopleBindingEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\PeopleBindingEli\PeopleBindingEli\bin\Debug\PeopleBindingEli.pdb
+I:\Elmira\Winter Semester\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\MainWindow.baml
+I:\Elmira\Winter Semester\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\MainWindow.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\App.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli_MarkupCompile.cache
+I:\Elmira\Winter Semester\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli.g.resources
+I:\Elmira\Winter Semester\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli.Properties.Resources.resources
+I:\Elmira\Winter Semester\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli.csproj.GenerateResource.Cache
+I:\Elmira\Winter Semester\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli.pdb
+I:\Elmira\Winter Semester\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli.csprojResolveAssemblyReference.cache
+J:\DotNet\C#\PeopleBindingEli\PeopleBindingEli\bin\Debug\PeopleBindingEli.exe.config
+J:\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli.exe
+J:\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli.pdb
+J:\DotNet\C#\PeopleBindingEli\PeopleBindingEli\bin\Debug\PeopleBindingEli.exe
+J:\DotNet\C#\PeopleBindingEli\PeopleBindingEli\bin\Debug\PeopleBindingEli.pdb
+J:\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli.csprojResolveAssemblyReference.cache
+J:\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\MainWindow.baml
+J:\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\MainWindow.g.cs
+J:\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\App.g.cs
+J:\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli_MarkupCompile.cache
+J:\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli.g.resources
+J:\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli.Properties.Resources.resources
+J:\DotNet\C#\PeopleBindingEli\PeopleBindingEli\obj\Debug\PeopleBindingEli.csproj.GenerateResource.Cache

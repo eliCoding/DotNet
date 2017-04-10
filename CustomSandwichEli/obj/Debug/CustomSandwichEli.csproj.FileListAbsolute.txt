@@ -1,0 +1,30 @@
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\bin\Debug\CustomSandwichEli.exe.config
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\bin\Debug\CustomSandwichEli.exe
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\bin\Debug\CustomSandwichEli.pdb
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\obj\Debug\MainWindow.baml
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\obj\Debug\MainWindow.g.cs
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\obj\Debug\App.g.cs
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\obj\Debug\CustomSandwichEli_MarkupCompile.cache
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\obj\Debug\CustomSandwichEli.g.resources
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\obj\Debug\CustomSandwichEli.Properties.Resources.resources
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\obj\Debug\CustomSandwichEli.csproj.GenerateResource.Cache
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\obj\Debug\CustomSandwichEli.exe
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\obj\Debug\CustomSandwichEli.pdb
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\obj\Debug\CustomSandwichEli.csprojResolveAssemblyReference.cache
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\obj\Debug\CustomDialog.baml
+I:\Elmira\Winter Semester\Visual Basic\CustomSandwichEli\obj\Debug\CustomDialog.g.cs
+D:\C#_DotNet\DotNet2\CustomSandwichEli\bin\Debug\CustomSandwichEli.exe.config
+D:\C#_DotNet\DotNet2\CustomSandwichEli\bin\Debug\CustomSandwichEli.exe
+D:\C#_DotNet\DotNet2\CustomSandwichEli\bin\Debug\CustomSandwichEli.pdb
+D:\C#_DotNet\DotNet2\CustomSandwichEli\obj\Debug\CustomSandwichEli.csprojResolveAssemblyReference.cache
+D:\C#_DotNet\DotNet2\CustomSandwichEli\obj\Debug\CustomDialog.baml
+D:\C#_DotNet\DotNet2\CustomSandwichEli\obj\Debug\MainWindow.baml
+D:\C#_DotNet\DotNet2\CustomSandwichEli\obj\Debug\CustomDialog.g.cs
+D:\C#_DotNet\DotNet2\CustomSandwichEli\obj\Debug\MainWindow.g.cs
+D:\C#_DotNet\DotNet2\CustomSandwichEli\obj\Debug\App.g.cs
+D:\C#_DotNet\DotNet2\CustomSandwichEli\obj\Debug\CustomSandwichEli_MarkupCompile.cache
+D:\C#_DotNet\DotNet2\CustomSandwichEli\obj\Debug\CustomSandwichEli.g.resources
+D:\C#_DotNet\DotNet2\CustomSandwichEli\obj\Debug\CustomSandwichEli.Properties.Resources.resources
+D:\C#_DotNet\DotNet2\CustomSandwichEli\obj\Debug\CustomSandwichEli.csproj.GenerateResource.Cache
+D:\C#_DotNet\DotNet2\CustomSandwichEli\obj\Debug\CustomSandwichEli.exe
+D:\C#_DotNet\DotNet2\CustomSandwichEli\obj\Debug\CustomSandwichEli.pdb

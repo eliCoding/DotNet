@@ -1,0 +1,6 @@
+I:\Elmira\Winter Semester\DotNet\C#\Quiz1BankingRecords\Quiz1BankingRecords\bin\Debug\Quiz1BankingRecords.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\Quiz1BankingRecords\Quiz1BankingRecords\bin\Debug\Quiz1BankingRecords.exe
+I:\Elmira\Winter Semester\DotNet\C#\Quiz1BankingRecords\Quiz1BankingRecords\bin\Debug\Quiz1BankingRecords.pdb
+I:\Elmira\Winter Semester\DotNet\C#\Quiz1BankingRecords\Quiz1BankingRecords\obj\Debug\Quiz1BankingRecords.csprojResolveAssemblyReference.cache
+I:\Elmira\Winter Semester\DotNet\C#\Quiz1BankingRecords\Quiz1BankingRecords\obj\Debug\Quiz1BankingRecords.exe
+I:\Elmira\Winter Semester\DotNet\C#\Quiz1BankingRecords\Quiz1BankingRecords\obj\Debug\Quiz1BankingRecords.pdb

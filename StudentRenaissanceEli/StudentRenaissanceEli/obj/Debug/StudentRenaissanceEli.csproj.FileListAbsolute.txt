@@ -1,0 +1,18 @@
+I:\Elmira\Winter Semester\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\bin\Debug\StudentRenaissanceEli.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\bin\Debug\StudentRenaissanceEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\bin\Debug\StudentRenaissanceEli.pdb
+I:\Elmira\Winter Semester\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\obj\Debug\StudentRenaissanceEli.csprojResolveAssemblyReference.cache
+I:\Elmira\Winter Semester\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\obj\Debug\StudentRenaissanceEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\obj\Debug\StudentRenaissanceEli.pdb
+D:\Elmira-IPD\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\bin\Debug\StudentRenaissanceEli.exe.config
+D:\Elmira-IPD\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\obj\Debug\StudentRenaissanceEli.exe
+D:\Elmira-IPD\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\obj\Debug\StudentRenaissanceEli.pdb
+D:\Elmira-IPD\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\bin\Debug\StudentRenaissanceEli.exe
+D:\Elmira-IPD\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\bin\Debug\StudentRenaissanceEli.pdb
+D:\Elmira-IPD\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\bin\Debug\mscorlib.dll
+D:\Elmira-IPD\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\bin\Debug\normidna.nlp
+D:\Elmira-IPD\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\bin\Debug\normnfc.nlp
+D:\Elmira-IPD\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\bin\Debug\normnfd.nlp
+D:\Elmira-IPD\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\bin\Debug\normnfkc.nlp
+D:\Elmira-IPD\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\bin\Debug\normnfkd.nlp
+D:\Elmira-IPD\DotNet\C#\StudentRenaissanceEli\StudentRenaissanceEli\obj\Debug\StudentRenaissanceEli.csprojResolveAssemblyReference.cache

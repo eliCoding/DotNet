@@ -1,0 +1,35 @@
+﻿<Window x:Class="CustomSandwichEli.CustomDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CustomDialog" Height="300" Width="300">
+    <Grid>
+        <Label Content="Bread" HorizontalAlignment="Left" Margin="26,10,0,0" VerticalAlignment="Top"/>
+        <GroupBox Header="Veggies" HorizontalAlignment="Left" Margin="26,70,0,0" VerticalAlignment="Top" Height="55" Width="242">
+            <Grid>
+                <CheckBox Name="ckLetuce" Content="Letuce" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="50"/>
+                <CheckBox Name="ckTomato" Content="Tomato" HorizontalAlignment="Left" Margin="75,10,0,0" VerticalAlignment="Top"/>
+                <CheckBox Name="ckCucomber" Content="Cucomber" HorizontalAlignment="Left" Margin="148,10,0,0" VerticalAlignment="Top"/>
+
+
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Meat" HorizontalAlignment="Left" Margin="29,138,0,0" VerticalAlignment="Top" Height="66" Width="239">
+            <Grid>
+                <RadioButton Name="rbChicken"  GroupName="meat" Content="Chicken" HorizontalAlignment="Left" Margin="10,13,0,0" VerticalAlignment="Top" Width="66"/>
+                <RadioButton Name="rbTurkey" GroupName="meat" Content="Turkey" HorizontalAlignment="Left" Margin="89,13,0,0" VerticalAlignment="Top" Width="73"/>
+                <RadioButton Name="rbTufo" GroupName="meat" Content="Tufo" HorizontalAlignment="Left" Margin="167,13,0,0" VerticalAlignment="Top" Width="60"/>
+
+
+            </Grid>
+            
+            
+        </GroupBox>
+        <ComboBox Name="comboBread" HorizontalAlignment="Left" Margin="90,14,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem>White</ComboBoxItem>
+            <ComboBoxItem>Brown</ComboBoxItem>
+        </ComboBox>
+        <Button Click="ButtonCancel_Click" Content="Cancel" HorizontalAlignment="Left" Margin="45,220,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Click="ButtonSave_Click"  Content="Save" HorizontalAlignment="Left" Margin="156,220,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

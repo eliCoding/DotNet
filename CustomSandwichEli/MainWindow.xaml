@@ -1,0 +1,15 @@
+﻿<Window x:Class="CustomSandwichEli.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="288.667" Width="388.333">
+    <Grid>
+        <Button Click="ButtonMakeSandwich_Click"  Content="Make a Sandwich" HorizontalAlignment="Left" Margin="73,47,0,0" VerticalAlignment="Top" Width="127"/>
+        <Label Content="Bread" HorizontalAlignment="Left" Margin="66,87,0,0" VerticalAlignment="Top"/>
+        <Label Content="Veggies" HorizontalAlignment="Left" Margin="66,143,0,0" VerticalAlignment="Top"/>
+        <Label Content="Meat" HorizontalAlignment="Left" Margin="66,207,0,0" VerticalAlignment="Top"/>
+        <Label Name="LblBread" Content="........." HorizontalAlignment="Left" Margin="196,87,0,0" VerticalAlignment="Top"/>
+        <Label Name="LblVeggies" Content="........" HorizontalAlignment="Left" Margin="196,151,0,0" VerticalAlignment="Top"/>
+        <Label Name="LblMeat" Content="......." HorizontalAlignment="Left" Margin="196,215,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

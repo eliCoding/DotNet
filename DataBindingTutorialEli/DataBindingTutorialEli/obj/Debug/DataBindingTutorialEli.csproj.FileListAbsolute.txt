@@ -1,0 +1,13 @@
+I:\Elmira\Winter Semester\DotNet\C#\DataBindingTutorialEli\DataBindingTutorialEli\bin\Debug\DataBindingTutorialEli.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\DataBindingTutorialEli\DataBindingTutorialEli\bin\Debug\DataBindingTutorialEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\DataBindingTutorialEli\DataBindingTutorialEli\bin\Debug\DataBindingTutorialEli.pdb
+I:\Elmira\Winter Semester\DotNet\C#\DataBindingTutorialEli\DataBindingTutorialEli\obj\Debug\DataBindingTutorialEli.csprojResolveAssemblyReference.cache
+I:\Elmira\Winter Semester\DotNet\C#\DataBindingTutorialEli\DataBindingTutorialEli\obj\Debug\MainWindow.baml
+I:\Elmira\Winter Semester\DotNet\C#\DataBindingTutorialEli\DataBindingTutorialEli\obj\Debug\MainWindow.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\DataBindingTutorialEli\DataBindingTutorialEli\obj\Debug\App.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\DataBindingTutorialEli\DataBindingTutorialEli\obj\Debug\DataBindingTutorialEli_MarkupCompile.cache
+I:\Elmira\Winter Semester\DotNet\C#\DataBindingTutorialEli\DataBindingTutorialEli\obj\Debug\DataBindingTutorialEli.g.resources
+I:\Elmira\Winter Semester\DotNet\C#\DataBindingTutorialEli\DataBindingTutorialEli\obj\Debug\DataBindingTutorialEli.Properties.Resources.resources
+I:\Elmira\Winter Semester\DotNet\C#\DataBindingTutorialEli\DataBindingTutorialEli\obj\Debug\DataBindingTutorialEli.csproj.GenerateResource.Cache
+I:\Elmira\Winter Semester\DotNet\C#\DataBindingTutorialEli\DataBindingTutorialEli\obj\Debug\DataBindingTutorialEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\DataBindingTutorialEli\DataBindingTutorialEli\obj\Debug\DataBindingTutorialEli.pdb

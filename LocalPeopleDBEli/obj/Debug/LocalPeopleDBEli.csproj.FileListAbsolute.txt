@@ -1,0 +1,13 @@
+I:\Elmira\Winter Semester\DotNet\C#\LocalPeopleDBEli\bin\Debug\LocalPeopleDBEli.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\LocalPeopleDBEli\obj\Debug\LocalPeopleDBEli.csprojResolveAssemblyReference.cache
+I:\Elmira\Winter Semester\DotNet\C#\LocalPeopleDBEli\obj\Debug\MainWindow.baml
+I:\Elmira\Winter Semester\DotNet\C#\LocalPeopleDBEli\obj\Debug\MainWindow.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\LocalPeopleDBEli\obj\Debug\App.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\LocalPeopleDBEli\obj\Debug\LocalPeopleDBEli_MarkupCompile.cache
+I:\Elmira\Winter Semester\DotNet\C#\LocalPeopleDBEli\obj\Debug\LocalPeopleDBEli.g.resources
+I:\Elmira\Winter Semester\DotNet\C#\LocalPeopleDBEli\obj\Debug\LocalPeopleDBEli.Properties.Resources.resources
+I:\Elmira\Winter Semester\DotNet\C#\LocalPeopleDBEli\obj\Debug\LocalPeopleDBEli.csproj.GenerateResource.Cache
+I:\Elmira\Winter Semester\DotNet\C#\LocalPeopleDBEli\bin\Debug\LocalPeopleDBEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\LocalPeopleDBEli\bin\Debug\LocalPeopleDBEli.pdb
+I:\Elmira\Winter Semester\DotNet\C#\LocalPeopleDBEli\obj\Debug\LocalPeopleDBEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\LocalPeopleDBEli\obj\Debug\LocalPeopleDBEli.pdb

@@ -1,0 +1,9 @@
+C:\Users\ipd\Documents\2017_dotnet\JustNumbers\JustNumbers\bin\Debug\JustNumbers.exe.config
+C:\Users\ipd\Documents\2017_dotnet\JustNumbers\JustNumbers\obj\Debug\JustNumbers.csprojResolveAssemblyReference.cache
+C:\Users\ipd\Documents\2017_dotnet\JustNumbers\JustNumbers\bin\Debug\JustNumbers.exe
+C:\Users\ipd\Documents\2017_dotnet\JustNumbers\JustNumbers\bin\Debug\JustNumbers.pdb
+C:\Users\ipd\Documents\2017_dotnet\JustNumbers\JustNumbers\obj\Debug\JustNumbers.exe
+C:\Users\ipd\Documents\2017_dotnet\JustNumbers\JustNumbers\obj\Debug\JustNumbers.pdb
+I:\Elmira\Winter Semester\DotNet\C#\JustNumbers\JustNumbers\bin\Debug\JustNumbers.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\JustNumbers\JustNumbers\obj\Debug\JustNumbers.exe
+I:\Elmira\Winter Semester\DotNet\C#\JustNumbers\JustNumbers\obj\Debug\JustNumbers.pdb

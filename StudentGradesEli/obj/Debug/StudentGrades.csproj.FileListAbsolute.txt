@@ -1,0 +1,25 @@
+C:\Users\ipd\Documents\2017-ipd9-dotnet\StudentGrades\bin\Debug\StudentGrades.exe.config
+F:\DotNet\C#_Greg\StudentGrades\bin\Debug\StudentGrades.exe.config
+F:\DotNet\C#_Greg\StudentGrades\bin\Debug\StudentGrades.exe
+F:\DotNet\C#_Greg\StudentGrades\bin\Debug\StudentGrades.pdb
+F:\DotNet\C#_Greg\StudentGrades\bin\Debug\mscorlib.dll
+F:\DotNet\C#_Greg\StudentGrades\bin\Debug\normidna.nlp
+F:\DotNet\C#_Greg\StudentGrades\bin\Debug\normnfc.nlp
+F:\DotNet\C#_Greg\StudentGrades\bin\Debug\normnfd.nlp
+F:\DotNet\C#_Greg\StudentGrades\bin\Debug\normnfkc.nlp
+F:\DotNet\C#_Greg\StudentGrades\bin\Debug\normnfkd.nlp
+F:\DotNet\C#_Greg\StudentGrades\obj\Debug\StudentGrades.exe
+F:\DotNet\C#_Greg\StudentGrades\obj\Debug\StudentGrades.pdb
+F:\DotNet\C#_Greg\StudentGrades\obj\Debug\StudentGrades.csprojResolveAssemblyReference.cache
+I:\Elmira\Winter Semester\DotNet\C#_Greg\StudentGrades\bin\Debug\StudentGrades.exe.config
+I:\Elmira\Winter Semester\DotNet\C#_Greg\StudentGrades\obj\Debug\StudentGrades.exe
+I:\Elmira\Winter Semester\DotNet\C#_Greg\StudentGrades\obj\Debug\StudentGrades.pdb
+I:\Elmira\Winter Semester\DotNet\C#_Greg\StudentGrades\obj\Debug\StudentGrades.csprojResolveAssemblyReference.cache
+I:\Elmira\Winter Semester\DotNet\C#_Greg\StudentGrades\bin\Debug\StudentGrades.exe
+I:\Elmira\Winter Semester\DotNet\C#_Greg\StudentGrades\bin\Debug\StudentGrades.pdb
+I:\Elmira\Winter Semester\DotNet\C#\StudentGradesEli\bin\Debug\StudentGrades.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\StudentGradesEli\obj\Debug\StudentGrades.exe
+I:\Elmira\Winter Semester\DotNet\C#\StudentGradesEli\obj\Debug\StudentGrades.pdb
+I:\Elmira\Winter Semester\DotNet\C#\StudentGradesEli\bin\Debug\StudentGrades.exe
+I:\Elmira\Winter Semester\DotNet\C#\StudentGradesEli\bin\Debug\StudentGrades.pdb
+I:\Elmira\Winter Semester\DotNet\C#\StudentGradesEli\obj\Debug\StudentGrades.csprojResolveAssemblyReference.cache

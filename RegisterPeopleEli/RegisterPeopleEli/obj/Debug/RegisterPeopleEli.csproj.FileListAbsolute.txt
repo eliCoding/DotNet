@@ -1,0 +1,13 @@
+I:\Elmira\Winter Semester\DotNet\C#\RegisterPeopleEli\RegisterPeopleEli\bin\Debug\RegisterPeopleEli.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\RegisterPeopleEli\RegisterPeopleEli\obj\Debug\RegisterPeopleEli.csprojResolveAssemblyReference.cache
+I:\Elmira\Winter Semester\DotNet\C#\RegisterPeopleEli\RegisterPeopleEli\obj\Debug\MainWindow.baml
+I:\Elmira\Winter Semester\DotNet\C#\RegisterPeopleEli\RegisterPeopleEli\obj\Debug\MainWindow.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\RegisterPeopleEli\RegisterPeopleEli\obj\Debug\App.g.cs
+I:\Elmira\Winter Semester\DotNet\C#\RegisterPeopleEli\RegisterPeopleEli\obj\Debug\RegisterPeopleEli_MarkupCompile.cache
+I:\Elmira\Winter Semester\DotNet\C#\RegisterPeopleEli\RegisterPeopleEli\obj\Debug\RegisterPeopleEli.g.resources
+I:\Elmira\Winter Semester\DotNet\C#\RegisterPeopleEli\RegisterPeopleEli\obj\Debug\RegisterPeopleEli.Properties.Resources.resources
+I:\Elmira\Winter Semester\DotNet\C#\RegisterPeopleEli\RegisterPeopleEli\obj\Debug\RegisterPeopleEli.csproj.GenerateResource.Cache
+I:\Elmira\Winter Semester\DotNet\C#\RegisterPeopleEli\RegisterPeopleEli\bin\Debug\RegisterPeopleEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\RegisterPeopleEli\RegisterPeopleEli\bin\Debug\RegisterPeopleEli.pdb
+I:\Elmira\Winter Semester\DotNet\C#\RegisterPeopleEli\RegisterPeopleEli\obj\Debug\RegisterPeopleEli.exe
+I:\Elmira\Winter Semester\DotNet\C#\RegisterPeopleEli\RegisterPeopleEli\obj\Debug\RegisterPeopleEli.pdb

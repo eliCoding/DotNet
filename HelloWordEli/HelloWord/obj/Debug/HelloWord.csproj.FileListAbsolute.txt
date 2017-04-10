@@ -1,0 +1,15 @@
+C:\Users\ipd\Documents\2017_dotnet\HelloWord\HelloWord\bin\Debug\HelloWord.exe.config
+C:\Users\ipd\Documents\2017_dotnet\HelloWord\HelloWord\bin\Debug\HelloWord.exe
+C:\Users\ipd\Documents\2017_dotnet\HelloWord\HelloWord\bin\Debug\HelloWord.pdb
+C:\Users\ipd\Documents\2017_dotnet\HelloWord\HelloWord\obj\Debug\HelloWord.csprojResolveAssemblyReference.cache
+C:\Users\ipd\Documents\2017_dotnet\HelloWord\HelloWord\obj\Debug\HelloWord.exe
+C:\Users\ipd\Documents\2017_dotnet\HelloWord\HelloWord\obj\Debug\HelloWord.pdb
+F:\DotNet\C#\HelloWord\HelloWord\bin\Debug\HelloWord.exe.config
+F:\DotNet\C#\HelloWord\HelloWord\obj\Debug\HelloWord.exe
+F:\DotNet\C#\HelloWord\HelloWord\obj\Debug\HelloWord.pdb
+I:\Elmira\Winter Semester\DotNet\C#\HelloWord\HelloWord\bin\Debug\HelloWord.exe.config
+I:\Elmira\Winter Semester\DotNet\C#\HelloWord\HelloWord\obj\Debug\HelloWord.exe
+I:\Elmira\Winter Semester\DotNet\C#\HelloWord\HelloWord\obj\Debug\HelloWord.pdb
+I:\Elmira\Winter Semester\DotNet\C#\HelloWord\HelloWord\bin\Debug\HelloWord.exe
+I:\Elmira\Winter Semester\DotNet\C#\HelloWord\HelloWord\bin\Debug\HelloWord.pdb
+I:\Elmira\Winter Semester\DotNet\C#\HelloWord\HelloWord\obj\Debug\HelloWord.csprojResolveAssemblyReference.cache
